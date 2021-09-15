@@ -2,7 +2,7 @@ name: Update README.md
 on:
   schedule:
     # execute every 5 mins
-    - cron: '*/6 * * * *'
+    - cron: '*/5 * * * *'
 
 jobs:
   execute:
@@ -11,14 +11,16 @@ jobs:
     steps:
       - name: Checkout repo code
         uses: actions/checkout@v2
+
       - name: Installs NodeJS
         uses: actions/setup-node@v2
         with:
           node-verson: '12'
-      - name: Sets default credentials
-        uses: oleksiyrudenko/gha-git-credentials@v2-latest
+
+      - uses: oleksiyrudenko/gha-git-credentials@v2-latest
         with:
           token: '${{ secrets.GITHUB_TOKEN }}'
+
       - name: Modifies readme file
         env:
           REPO: ${{ github.repository }}
@@ -26,6 +28,7 @@ jobs:
           npm i
           npm run update_readme
           git commit -m "Auto updated readme file" -a
+
       - name: Pushes commit with update to repo
         uses: ad-m/github-push-action@master
         with:
