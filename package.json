@@ -1,0 +1,37 @@
+{
+  "name": "be_grateful",
+  "version": "1.0.0",
+  "description": "Fork repo to give credit to your repo fans in your readme file automagically",
+  "main": "index.js",
+  "scripts": {
+    "update_readme": "md-magic --ignore 'node_modules'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puntorigen/be_grateful.git"
+  },
+  "keywords": [
+    "thanks",
+    "fans",
+    "badge",
+    "readme.md",
+    "readme",
+    "free",
+    "beauty",
+    "puntorigen"
+  ],
+  "author": "Pablo Schaffner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/puntorigen/be_grateful/issues"
+  },
+  "homepage": "https://github.com/puntorigen/be_grateful#readme",
+  "devDependencies": {
+    "markdown-magic": "^2.5.2",
+    "date-and-time": "^2.0.0",
+    "encodeurl": "^1.0.2",
+    "got": "^11.8.2"
+  },
+  "dependencies": {
+  }
+}

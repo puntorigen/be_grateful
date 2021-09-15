@@ -1,0 +1,28 @@
+name: Update README.md
+on:
+  schedule:
+    # execute every 5 mins
+    - cron: '*/5 * * * *'
+
+jobs:
+  execute:
+    name: Generate modified README.md
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo code
+        uses: actions/checkout@v2
+      - name: Installs NodeJS
+        uses: actions/setup-node@v2
+        with:
+          node-verson: '12'
+      - name: Modifies readme file
+        env:
+          REPO: ${{ github.repository }}
+        run: |
+          npm i
+          npm run update_readme
+          git commit -m "Auto updated readme file" -a
+      - name: Pushes commit with update to repo
+        uses: ad-m/github-push-action@master
+        with:
+          branch: ${{ github.ref }}
