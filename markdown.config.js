@@ -28,7 +28,7 @@ module.exports = {
       async LAST_UPDATE(content, options) {
         let date = require('date-and-time');
         let format = (options.format)?options.format:'DD-MM-YYYY HH:mm';
-        let now_f = date.format(new Date(), format, true).replaceAll('-','--'); // gmt 0
+        let now_f = date.format(new Date(), format, true).replaceAll('-','--')+' (GMT 0)'; // gmt 0
         let encode = require('encodeurl');
         let encoded = encode(now_f);
         return `![last_update](https://img.shields.io/badge/last%20update-${encoded}-blue)`;
