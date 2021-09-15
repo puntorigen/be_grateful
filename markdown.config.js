@@ -3,6 +3,12 @@ let got = require('got');
 let config = {
   stars_repo : (process.env.REPO)?process.env.REPO:'puntorigen/be_grateful'
 };
+String.prototype.replaceAll = function(strReplace, strWith) {
+    // See http://stackoverflow.com/a/3561711/556609
+    var esc = strReplace.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+    var reg = new RegExp(esc, 'ig');
+    return this.replace(reg, strWith);
+};
 let get_users = async function() {
   let thanks_to = []; //ordered list
   let stars = await got('https://api.github.com/repos/'+config.stars_repo+'/stargazers').json();
@@ -22,9 +28,9 @@ module.exports = {
       async LAST_UPDATE(content, options) {
         let date = require('date-and-time');
         let format = (options.format)?options.format:'DD-MM-YYYY HH:mm';
-        let now_f = date.format(new Date(), format, true); // gmt 0
+        let now_f = date.format(new Date(), format, true).replaceAll('-','--'); // gmt 0
         let encode = require('encodeurl');
-        let encoded = encode(now_f.replaceAll('-','--'));
+        let encoded = encode(now_f);
         return `![last_update](https://img.shields.io/badge/last%20update-${encoded}-blue)`;
       },
       /* Match <!-- PUNTORIGEN:START (THANKS_TO) --> */
