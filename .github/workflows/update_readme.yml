@@ -2,7 +2,7 @@ name: Update README.md
 on:
   schedule:
     # execute every 5 mins
-    - cron: '*/5 * * * *'
+    - cron: '*/6 * * * *'
 
 jobs:
   execute:
