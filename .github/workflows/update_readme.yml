@@ -1,8 +1,8 @@
 name: Update README.md
 on:
   schedule:
-    # execute every 1 min
-    - cron: '* * * * *'
+    # execute every 2 mins
+    - cron: '*/2 * * * *'
 
 jobs:
   execute:
@@ -15,6 +15,10 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-verson: '12'
+      - name: Sets default credentials
+        uses: oleksiyrudenko/gha-git-credentials@v2-latest
+        with:
+          token: '${{ secrets.GITHUB_TOKEN }}'
       - name: Modifies readme file
         env:
           REPO: ${{ github.repository }}
