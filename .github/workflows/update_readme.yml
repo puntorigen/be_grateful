@@ -27,9 +27,14 @@ jobs:
         run: |
           npm i
           npm run update_readme
+
+      - if: (success())
+        name: Commit changes
+        run: |
           git commit -m "Auto updated readme file" -a
 
-      - name: Pushes commit with update to repo
+      - if: (success())
+        name: Pushes commit with update to repo
         uses: ad-m/github-push-action@master
         with:
           branch: ${{ github.ref }}
