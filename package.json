@@ -32,6 +32,5 @@
     "encodeurl": "^1.0.2",
     "got": "^11.8.2"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
