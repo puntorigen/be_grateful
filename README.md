@@ -12,6 +12,7 @@ Just edit the readme.md file as you wish but keep the special comments.
 <!-- BE_GRATEFUL:START (QUOTES) -->
 
 > You can do it if you believe you can!
+
 <small>- <i>Napoleon Hill</i></small>
 <!-- BE_GRATEFUL:END -->
 
