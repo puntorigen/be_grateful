@@ -40,7 +40,7 @@ module.exports = {
       async QUOTES(content, options) {
         const quotes = require('./quotes.json');
         const random = Math.floor(Math.random() * quotes.length);
-        return `> ${quotes[random].quote}\n<small>- <i>${quotes[random].author}</i></small>`;
+        return `\n> ${quotes[random].quote}\n<small>- <i>${quotes[random].author}</i></small>`;
       },
       /* Match <!-- PUNTORIGEN:START (THANKS_TO) --> */
       async THANKS_TO(content, options) {
