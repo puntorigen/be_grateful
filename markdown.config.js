@@ -22,7 +22,7 @@ let get_users = async function() {
 };
 
 module.exports = {
-    matchWord: 'PUNTORIGEN',
+    matchWord: 'BE_GRATEFUL',
     transforms: {
       /* Match <!-- PUNTORIGEN:START (LAST_UPDATE) --> */
       async LAST_UPDATE(content, options) {
