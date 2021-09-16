@@ -33,6 +33,10 @@ module.exports = {
         let encoded = encode(now_f);
         return `![last_update](https://img.shields.io/badge/last%20update-${encoded}-blue)`;
       },
+      /* Match <!-- PUNTORIGEN:START (TWITTER) --> */
+      async TWITTER(content, options) {
+        return `![twitter](https://img.shields.io/twitter/follow/${options.username}?style=social)`;
+      },
       /* Match <!-- PUNTORIGEN:START (THANKS_TO) --> */
       async THANKS_TO(content, options) {
         let stars = await get_users();

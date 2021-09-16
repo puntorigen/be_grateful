@@ -2,7 +2,8 @@
 <!-- PUNTORIGEN:START (LAST_UPDATE:format=DD-MMM-YYYY HH:mm) -->
 ![last_update](https://img.shields.io/badge/last%20update-16--Sep--2021%2001:14%20(GMT%200)-blue)
 <!-- PUNTORIGEN:END -->
-![last_update](https://img.shields.io/twitter/follow/puntorigen1?style=social)
+<!-- PUNTORIGEN:START (TWITTER:username=puntorigen1) -->
+<!-- PUNTORIGEN:END -->
 
 Fork repo to give credit to your repo fans in your readme file automagically<br/>
 Just edit the readme.md file as you wish but keep the special comments.
