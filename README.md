@@ -1,6 +1,6 @@
 ![logo](https://user-images.githubusercontent.com/57605485/133506342-f313bb68-8bb0-4d01-a4a4-e05faea4b865.png)
 <!-- BE_GRATEFUL:START (LAST_UPDATE:format=DD-MMM-YYYY HH:mm) -->
-![last_update](https://img.shields.io/badge/last%20update-16--Sep--2021%2004:06%20(GMT%200)-blue)
+![last_update](https://img.shields.io/badge/last%20update-16--Sep--2021%2004:16%20(GMT%200)-blue)
 <!-- BE_GRATEFUL:END -->
 <!-- BE_GRATEFUL:START (TWITTER:username=puntorigen1) -->
 ![twitter](https://img.shields.io/twitter/follow/puntorigen1?style=social)
@@ -11,9 +11,9 @@ Just edit the readme.md file as you wish but keep the special comments.
 
 <!-- BE_GRATEFUL:START (QUOTES) -->
 
-> You can do it if you believe you can!
+> Better be ignorant of a matter than half know it.
 
-<small>- <i>Napoleon Hill</i></small>
+<small>- <i>Publilius Syrus</i></small>
 <!-- BE_GRATEFUL:END -->
 
 <!-- BE_GRATEFUL:START (THANKS_TO) -->
