@@ -1,6 +1,6 @@
 ![logo](https://user-images.githubusercontent.com/57605485/133506342-f313bb68-8bb0-4d01-a4a4-e05faea4b865.png)
 <!-- BE_GRATEFUL:START (LAST_UPDATE:format=DD-MMM-YYYY HH:mm) -->
-![last_update](https://img.shields.io/badge/last%20update-16--Oct--2021%2017:49%20(GMT%200)-blue)
+![last_update](https://img.shields.io/badge/last%20update-16--Oct--2021%2018:01%20(GMT%200)-blue)
 <!-- BE_GRATEFUL:END -->
 <!-- BE_GRATEFUL:START (TWITTER:username=creador) -->
 ![twitter](https://img.shields.io/twitter/follow/creador?style=social)
@@ -10,8 +10,8 @@ Fork repo to give credit to your repo fans in your readme file automagically.<br
 Just edit the readme.md file as you wish but keep the special comments.
 
 <!-- BE_GRATEFUL:START (QUOTES) -->
-<h3>"Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it."</h3>
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<small><i>- M. Scott Peck</i></small>
+<h3>"I endeavour to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress."</h3>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<small><i>- Elizabeth Montagu</i></small>
 <!-- BE_GRATEFUL:END -->
 
 <!-- BE_GRATEFUL:START (THANKS_TO) -->
