@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/puntorigen/be_grateful#readme",
   "devDependencies": {
-    "markdown-magic": "^2.5.2",
+    "markdown-magic": "github:puntorigen/markdown-magic",
     "date-and-time": "^2.0.0",
     "encodeurl": "^1.0.2",
     "got": "^11.8.2"
