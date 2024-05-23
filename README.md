@@ -1,6 +1,6 @@
 ![logo](https://user-images.githubusercontent.com/57605485/133506342-f313bb68-8bb0-4d01-a4a4-e05faea4b865.png)
 <!-- BE_GRATEFUL:START (LAST_UPDATE:format=DD-MMM-YYYY HH:mm) -->
-![last_update](https://img.shields.io/badge/last%20update-23--May--2024%2015:27%20(GMT%200)-blue)
+![last_update](https://img.shields.io/badge/last%20update-23--May--2024%2015:35%20(GMT%200)-blue)
 <!-- BE_GRATEFUL:END -->
 <!-- BE_GRATEFUL:START (TWITTER:username=creador) -->
 ![twitter](https://img.shields.io/twitter/follow/creador?style=social)
@@ -10,8 +10,8 @@ Fork repo to give credit to your repo fans in your readme file automagically.<br
 Just edit the readme.md file as you wish but keep the special comments.
 
 <!-- BE_GRATEFUL:START (QUOTES) -->
-<h3>"You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. You're on your own. And you know what you know. And YOU are the one who'll decide where to go..."</h3>
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<small><i>- Dr. Seuss</i></small>
+<h3>"Your real strength comes from being the best you you can be. Who are you? What are you good at? What makes you, you?"</h3>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<small><i>- Po</i></small>
 <!-- BE_GRATEFUL:END -->
 
 <!-- BE_GRATEFUL:START (THANKS_TO) -->
