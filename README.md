@@ -1,6 +1,6 @@
 ![logo](https://user-images.githubusercontent.com/57605485/133506342-f313bb68-8bb0-4d01-a4a4-e05faea4b865.png)
 <!-- BE_GRATEFUL:START (LAST_UPDATE:format=DD-MMM-YYYY HH:mm) -->
-![last_update](https://img.shields.io/badge/last%20update-30--Jan--2025%2022:46%20(GMT%200)-blue)
+![last_update](https://img.shields.io/badge/last%20update-30--Jan--2025%2022:54%20(GMT%200)-blue)
 <!-- BE_GRATEFUL:END -->
 <!-- BE_GRATEFUL:START (TWITTER:username=creador) -->
 ![twitter](https://img.shields.io/twitter/follow/creador?style=social)
@@ -10,8 +10,8 @@ Fork repo to give credit to your repo fans in your readme file automagically.<br
 Just edit the readme.md file as you wish but keep the special comments.
 
 <!-- BE_GRATEFUL:START (QUOTES) -->
-<h3>"It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens."</h3>
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<small><i>- Pema Chodron</i></small>
+<h3>"The only thing to do with good advice is to pass it on. It is never of any use to oneself."</h3>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<small><i>- Oscar Wilde</i></small>
 <!-- BE_GRATEFUL:END -->
 
 <!-- BE_GRATEFUL:START (THANKS_TO) -->
