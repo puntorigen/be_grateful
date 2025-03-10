@@ -1,6 +1,6 @@
 ![logo](https://user-images.githubusercontent.com/57605485/133506342-f313bb68-8bb0-4d01-a4a4-e05faea4b865.png)
 <!-- BE_GRATEFUL:START (LAST_UPDATE:format=DD-MMM-YYYY HH:mm) -->
-![last_update](https://img.shields.io/badge/last%20update-10--Mar--2025%2022:02%20(GMT%200)-blue)
+![last_update](https://img.shields.io/badge/last%20update-10--Mar--2025%2022:13%20(GMT%200)-blue)
 <!-- BE_GRATEFUL:END -->
 <!-- BE_GRATEFUL:START (TWITTER:username=creador) -->
 ![twitter](https://img.shields.io/twitter/follow/creador?style=social)
@@ -10,8 +10,8 @@ Fork repo to give credit to your repo fans in your readme file automagically.<br
 Just edit the readme.md file as you wish but keep the special comments.
 
 <!-- BE_GRATEFUL:START (QUOTES) -->
-<h3>"I am so clever that sometimes I don't understand a single word of what I am saying."</h3>
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<small><i>- Oscar Wilde</i></small>
+<h3>"It is surprising what a man can do when he has to, and how little most men will do when they don't have to."</h3>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<small><i>- Walter Linn</i></small>
 <!-- BE_GRATEFUL:END -->
 
 <!-- BE_GRATEFUL:START (THANKS_TO) -->
