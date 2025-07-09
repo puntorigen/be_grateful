@@ -18,6 +18,7 @@ Just edit the readme.md file as you wish but keep the special comments.
 # Thanks to ..
 <ol>
 <li><a href="https://github.com/puntorigen">puntorigen</a></li>
+<li><a href="https://github.com/DanishIbrahimKhan">DanishIbrahimKhan</a></li>
 <li><a href="https://github.com/Sinevia">Sinevia</a></li>
 <li><a href="https://github.com/r2d2m">r2d2m</a></li>
 <li><a href="https://github.com/ReZLone">ReZLone</a></li>
@@ -33,6 +34,7 @@ Just edit the readme.md file as you wish but keep the special comments.
 <li><a href="https://github.com/Janu17">Janu17</a></li>
 <li><a href="https://github.com/Mati882023">Mati882023</a></li>
 <li><a href="https://github.com/rebase">rebase</a></li>
+
 </ol>
 
 <!-- BE_GRATEFUL:END -->
